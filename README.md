@@ -10,21 +10,18 @@ Link to my Master's major research paper - Poster presentation
 
 [here](https://www.flickr.com/photos/ryersonspatialanalysis/52060526137/)
 
+Course Assignment
+------
+Hamilton Waterfalls web map for RyersonGeo, SA8905, Fall 2021 (https://hawaterfallswebmap.herokuapp.com/)
+
+
 Maps
 ------
 
 ### 3D Diorama - Volcano
-#### Software:
-* ArcGIS Pro
-
-
-#### Data:
-* Esri Living Atlas - Terrain Image Service
-
-
-#### Location:
-* Irazu Volcano in Costa Rica
-
+* _Software:_  ArcGIS Pro
+* _Data:_  Esri Living Atlas - Terrain Image Service
+* _Location:_  Irazu Volcano in Costa Rica
 
 #### Description:
 * Check out John Nelson's Diorama Tutorial! ["How to Make a 3D Diorama in ArcPro"](https://www.youtube.com/watch?v=kVsj6Z7UuLY)
