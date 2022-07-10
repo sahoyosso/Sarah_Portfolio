@@ -31,5 +31,7 @@ Maps
 
 [logo]: https://github.com/sahoyosso/Sarah_Portfolio/blob/main/images/irazu%20volcano%20map.png "Logo Title Text 2"
 
-
+B.C Mountains             |  Vancouver Streetlights
+:-------------------------:|:-------------------------:
+<img src="https://github.com/sahoyosso/SaHoyosMSA/blob/main/images/maps/Map_BCmountians.png" width="350" height="300"> | <img src="https://github.com/sahoyosso/SaHoyosMSA/blob/main/images/maps/Sarah_day1points2020.png" width="350" height="300">
 ###
