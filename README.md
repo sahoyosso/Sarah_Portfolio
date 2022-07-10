@@ -12,7 +12,7 @@ Link to my Master's major research paper - Poster presentation
 
 Course Assignment
 ------
-Hamilton Waterfalls web map for RyersonGeo, SA8905, Fall 2021 (https://hawaterfallswebmap.herokuapp.com/)
+Hamilton Waterfalls web map for Cartography, SA8905, Fall 2021 (https://hawaterfallswebmap.herokuapp.com/)
 
 
 Maps
