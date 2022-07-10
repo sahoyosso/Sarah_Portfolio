@@ -26,6 +26,7 @@ Maps
 #### Description:
 * Check out John Nelson's Diorama Tutorial! ["How to Make a 3D Diorama in ArcPro"](https://www.youtube.com/watch?v=kVsj6Z7UuLY)
 * I followed the tutorial and couldn't help but find a volcano to match ArcPro's magma colour palette 
+* [Page1](/pages/page_1.md)
 * Reference-style: 
 ![alt text][logo]
 
