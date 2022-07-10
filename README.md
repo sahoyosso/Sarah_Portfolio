@@ -2,9 +2,12 @@
 ### Hosted maps and projects
 Map images I've created and how
 
-### Research Poster
+Research Poster
+------
 Link to my Master's major research paper - Poster presentation 
+
 *Impacts of the King Street Transit Priority Corridor on Environmental Perceptions: Gender, Mobility and Safety*
+
 [here](https://www.flickr.com/photos/ryersonspatialanalysis/52060526137/)
 
 Maps
