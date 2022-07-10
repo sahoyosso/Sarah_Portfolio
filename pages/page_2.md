@@ -1,9 +1,10 @@
 Maps 3D Diorama - Volcano
 ------
- <!--
-<img src="https://github.com/sahoyosso/Sarah_Portfolio/blob/main/images/irazu%20volcano%20map.png" width="400" height="400"> -->
+ 
+<img src="/images/irazu%20volcano%20map.png" width="400" height="400">
 
-<img src="https://github.com/sahoyosso/Sarah_Portfolio/blob/main/images/legobrickstyle_ontario.jpg" width="400" height="400">
+ <!--
+-->
 
 
 ### 3D Diorama - Volcano
