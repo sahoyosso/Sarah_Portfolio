@@ -1,6 +1,6 @@
 Maps 3D Diorama - Volcano
 ------
- ![alt text](/images/irazu%20volcano%20map.png "volcano")
+ ![alt text](/images/Map_BCmountians.png "BC")
 <img src="/images/irazu%20volcano%20map.png" width="400" height="400">
 
  <!--
