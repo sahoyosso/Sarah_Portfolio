@@ -14,11 +14,6 @@ Maps
 ------
 
 ### 3D Diorama - Volcano
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/sahoyosso/Sarah_Portfolio/blob/main/images/irazu%20volcano%20map.png "Logo Title Text 2"
-
 #### Software:
 * ArcGIS Pro
 
@@ -34,5 +29,10 @@ Reference-style:
 #### Description:
 * Check out John Nelson's Diorama Tutorial! ["How to Make a 3D Diorama in ArcPro"](https://www.youtube.com/watch?v=kVsj6Z7UuLY)
 * I followed the tutorial and couldn't help but find a volcano to match ArcPro's magma colour palette 
+* Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/sahoyosso/Sarah_Portfolio/blob/main/images/irazu%20volcano%20map.png "Logo Title Text 2"
+
 
 ###
