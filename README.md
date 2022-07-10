@@ -2,6 +2,15 @@
 ### Hosted maps and projects
 Map images I've created and how
 
+### Research Poster
+Link to my Master's major research paper - Poster presentation 
+*Impacts of the King Street Transit Priority Corridor on Environmental Perceptions: Gender, Mobility and Safety*
+[here](https://www.flickr.com/photos/ryersonspatialanalysis/52060526137/)
+
+Maps
+------
+
+### 3D Diorama - Volcano
 Reference-style: 
 ![alt text][logo]
 
@@ -14,5 +23,7 @@ Reference-style:
 #### Location:
 * Irazu Volcano in Costa Rica
 #### Description:
-* Check out John Nelson's Diaorama Tutorial! 
+* Check out John Nelson's Diorama Tutorial! ["How to Make a 3D Diorama in ArcPro"](https://www.youtube.com/watch?v=kVsj6Z7UuLY)
 * I followed the tutorial and couldn't help but find a volcano to match ArcPro's magma colour palette 
+
+### 
